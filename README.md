@@ -62,7 +62,7 @@
     # Inicie a aplicação React
     $ npm start ou yarn start
 
-<p>A aplicação irá rodar no endereço `http://localhost:3000/`</p>
+<p>A aplicação irá rodar no endereço `http://localhost:3000`</p>
 
 <h3>📝 Licença</h3>
 <p>Este projeto está sob a licença do MIT</p>
