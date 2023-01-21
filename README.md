@@ -35,7 +35,7 @@
 <hr />
 
 <h3>📟 Layout da aplicação:</h3>
-  <img src="./dashboard.png" />
+  <img src="./feedback.png" />
   
 <h3>⚙️ Instalação: </h3>
 
