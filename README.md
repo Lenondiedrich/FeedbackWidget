@@ -16,7 +16,7 @@
    </a>
 </h3>
 <h3>💻 Sobre: </h3>
-<p align="center">Projeto desenvolvido na semana DevSuperior. O projeto consiste em uma aplicação de para ver o resultado de vendas</p>
+<p align="center">Projeto desenvolvido a Next Level Week, disponibilizado pela RocketSeat. O Projeto consiste em um componente para enviar feedbacks sobre um determinado sistema.</p>
 <hr/>
 <h3>🛠 Tecnologias utilizadas: </h3>
 <ul>
